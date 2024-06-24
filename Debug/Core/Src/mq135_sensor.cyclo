@@ -1,0 +1,4 @@
+../Core/Src/mq135_sensor.c:6:6:init_mq135_sensor	2
+../Core/Src/mq135_sensor.c:23:7:calculate_res_mq135_sensor	1
+../Core/Src/mq135_sensor.c:28:10:read_mq135_sensor_ADC	1
+../Core/Src/mq135_sensor.c:37:6:read_mq135_sensor	1
